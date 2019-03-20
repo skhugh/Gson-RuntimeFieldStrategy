@@ -1,0 +1,1 @@
+# RuntimeFieldStrategy for GSON
